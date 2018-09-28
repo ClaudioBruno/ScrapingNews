@@ -1,1 +1,1 @@
-# ScrappingNews
+# ScrapingNews
